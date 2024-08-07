@@ -16,7 +16,7 @@ Este proyecto es una aplicación de chat desarrollada en React que interactúa c
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/mistral-chat.git
+   git clone https://github.com/jaimeirazabal1/chat-with-mistral
    cd mistral-chat
    ```
 
